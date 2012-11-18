@@ -1,0 +1,14 @@
+{
+  "name": "cucumis-sativus",
+  "repo": "shaunxcode/cucumis-sativus",
+  "description": "gherkin parsing component",
+  "version": "0.0.1",
+  "keywords": [
+    "gherkin",
+    "bdd",
+    "parser"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
